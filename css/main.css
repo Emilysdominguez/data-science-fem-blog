@@ -105,8 +105,7 @@ nav .profile-link {
 
 nav .profile-link a {
     color: black;
-    /* border-bottom: 1px solid black; */
-    font-size: 12px;
+    font-size: 14px;
 }
 
 /* Fin de los estilos de barra de navegacion y logo */
@@ -247,6 +246,7 @@ nav .profile-link a {
 .blogs-posts-container .post-container p {
     overflow: hidden;
     display: -webkit-inline-box; -webkit-box-orient: vertical; -webkit-line-clamp: 4;
+    text-align: justify;
 }
 
 .blogs-posts-container .post-container img {
