@@ -28,7 +28,7 @@
     }
 
     .information-profile {
-        text-align: center;
+        text-align: justify;
     }
 
     nav .nav-logo-container {
@@ -92,8 +92,8 @@
     min-width: 45%;
 }
 
-.home-main-text {
-    font-size: 22px; 
+.home-main .home-main-text {
+    font-size: 22px;
     text-align: center;
   }
 
