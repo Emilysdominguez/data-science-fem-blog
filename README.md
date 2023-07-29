@@ -5,3 +5,5 @@ Utilicé HTML5 y CSS, implementé CSS Grid y CSS Flexbox según lo requerido. Ag
 Es un proyecto que tendrá continuidad para la comunidad de DSF.
 
 https://www.datasciencefem.com/
+
+💡 Si quieres darme algún feedback o comunicarte conmigo ➡️ **Contáctame:** emilyscontacto@gmail.com
